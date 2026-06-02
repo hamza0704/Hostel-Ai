@@ -12,7 +12,7 @@ While living in a hostel, I noticed that tenants had to raise complaints through
 
 ## 🚀 Live Demo
 
-🔗 [your-deployment-url.vercel.app](#) <!-- Replace with your actual URL -->
+(https://smart-hostel-companion.vercel.app/)
 
 ---
 
@@ -45,10 +45,6 @@ A unique workflow where tenant leave requests are sent to parents for approval b
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of your dashboard, complaint form, and leave request flow here._
-
 ---
 
 ## 🗂️ Project Structure
@@ -62,37 +58,6 @@ A unique workflow where tenant leave requests are sent to parents for approval b
 ├── lib/                  # Utilities and helpers
 └── public/               # Static assets
 ```
-
----
-
-## 🏃 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/pg-management-system.git
-
-# Navigate into the project
-cd pg-management-system
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
----
-
-## 🔮 Roadmap
-
-- [ ] Email/SMS notifications for complaint updates
-- [ ] Rent payment tracking and reminders
-- [ ] Mobile app (React Native)
-- [ ] Analytics dashboard for owners
-
----
 
 ## 🙋 About
 
