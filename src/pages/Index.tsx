@@ -290,7 +290,6 @@ export default function Index() {
           </div>
           <div className="border-t mt-8 pt-8 flex flex-col md:flex-row items-center justify-between text-sm text-muted-foreground">
             <p>© 2026 HostelAI. All rights reserved.</p>
-            <p>Made with ❤️ for better hostel living</p>
           </div>
         </div>
       </footer>
